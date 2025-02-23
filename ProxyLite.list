@@ -8,6 +8,7 @@
 # DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,nz1123
 DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,popcorntime
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
