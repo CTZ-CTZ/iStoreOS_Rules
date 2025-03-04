@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,p9999
 # DOMAIN-KEYWORD,github
 # DOMAIN-KEYWORD,githubusercontent
-DOMAIN-KEYWORD,aisu
+DOMAIN-KEYWORD,surfboard
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
