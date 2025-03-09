@@ -4,7 +4,7 @@
 # DOMAIN-SUFFIX,stun.syncthing.net
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,opendns.com
+DOMAIN-SUFFIX,gstatic.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,steam
