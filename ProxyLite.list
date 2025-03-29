@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,p9999
 # DOMAIN-KEYWORD,github
 # DOMAIN-KEYWORD,githubusercontent
 # DOMAIN-KEYWORD,surfboard
+DOMAIN-KEYWORD,ipleak
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
