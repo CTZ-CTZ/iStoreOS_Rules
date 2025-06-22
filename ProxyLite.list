@@ -6,10 +6,11 @@
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,openclash.ss-nz1123.workers.dev
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,steam
-DOMAIN-KEYWORD,nz1123
+# DOMAIN-KEYWORD,nz1123
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,p9999
 # DOMAIN-KEYWORD,github
