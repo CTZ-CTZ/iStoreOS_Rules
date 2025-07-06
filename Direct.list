@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX,stun.syncthing.net
 DOMAIN-SUFFIX,api.dler.io
 # DOMAIN-SUFFIX,ssnz1123.ddns-ip.net
+DOMAIN-SUFFIX,youku.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,steam
