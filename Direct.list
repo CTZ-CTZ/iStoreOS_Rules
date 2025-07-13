@@ -15,3 +15,4 @@ DOMAIN-KEYWORD,tvyun
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,45.192.240.56/32,no-resolve
+IP-CIDR,107.173.122.210/32,no-resolve
