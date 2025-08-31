@@ -17,9 +17,9 @@ DOMAIN-KEYWORD,p9999
 # DOMAIN-KEYWORD,githubusercontent
 # DOMAIN-KEYWORD,surfboard
 DOMAIN-KEYWORD,ipleak
+
 #奈飞工厂
 DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,netflixgc
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
