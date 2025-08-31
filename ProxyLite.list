@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 # DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,openclash.ss-nz1123.workers.dev
 
-# 域名关键字匹配
+# # 域名关键字匹配# # 
 # DOMAIN-KEYWORD,steam
 # DOMAIN-KEYWORD,nz1123
 DOMAIN-KEYWORD,docker
@@ -17,6 +17,8 @@ DOMAIN-KEYWORD,p9999
 # DOMAIN-KEYWORD,githubusercontent
 # DOMAIN-KEYWORD,surfboard
 DOMAIN-KEYWORD,ipleak
+#奈飞工厂
+DOMAIN-KEYWORD,ffzy
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
