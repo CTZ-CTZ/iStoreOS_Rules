@@ -16,3 +16,4 @@ DOMAIN-KEYWORD,tvyun
 # IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,45.192.240.56/32,no-resolve
 IP-CIDR,107.173.122.210/32,no-resolve
+IP-CIDR,169.197.131.199/32,no-resolve
