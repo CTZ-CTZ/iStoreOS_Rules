@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 # DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,openclash.ss-nz1123.workers.dev
-#影视
-DOMAIN-SUFFIX,vodcnd04.rsfcxq.com
 
 # # 域名关键字匹配# # 
 # DOMAIN-KEYWORD,steam
@@ -21,6 +19,8 @@ DOMAIN-KEYWORD,p9999
 DOMAIN-KEYWORD,ipleak
 DOMAIN-KEYWORD,netflixgc
 
+#影视
+DOMAIN-KEYWORD,rsfcxq.com
 #奈飞工厂
 DOMAIN-KEYWORD,ffzy
 
